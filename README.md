@@ -73,6 +73,8 @@ Click "Compare & pull request."
 Write a descriptive title and comment for your pull request, explaining what changes you've made and why they should be merged.
 Submit the pull request.
 
+![image](https://github.com/user-attachments/assets/631db84e-bf5a-4e1d-b63b-84ba8b55d416)
+
 ## 8. Respond to Feedback
 The repository maintainers (your friend, in this case) might request changes or provide feedback.
 You can make additional commits to your branch to address any feedback and push them to GitHub. These changes will automatically be reflected in your pull request.
