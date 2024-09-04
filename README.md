@@ -8,6 +8,8 @@ Although you’re not professional software developers, you both enjoy learning 
 Go to the GitHub repository you want to contribute to.
 Click the "Fork" button at the top-right of the repository page. This will create a copy of the repository under your own GitHub account.
 
+![image](https://github.com/user-attachments/assets/b0b247f2-1e20-447f-82cf-9b6dd5ee7bc1)
+
 ## 2. Clone Your Fork
 Clone the forked repository to your local machine using the following command:
 
